@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px/1.5 "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.a {
+  font-size: 24px;
+  -webkit-transition: 300ms linear font-size;
+}
+
+.emphasis {
+  font-size: 1.5em;
+  color: #fe3900;
+}
+
+li {
+  color: black;
+}
