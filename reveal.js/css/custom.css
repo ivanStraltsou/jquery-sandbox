@@ -1,0 +1,12 @@
+.epam-logo {
+  position: fixed;
+  bottom: -10px;
+  left: 10px;
+  z-index: 10;
+  width: 150px;
+}
+
+.epam-logo img {
+  max-width: 100%;
+  max-height: 100%;
+}
